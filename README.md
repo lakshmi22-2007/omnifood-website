@@ -4,7 +4,8 @@
 
 ### *Where healthy meets delicious - delivered to your door*
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Website-orange?style=for-the-badge)](https://lakshmi22-2007.github.io/omnifood-website)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Website-orange?style=for-the-badge)](https://omnifood-website-rho.vercel.app/)
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=for-the-badge&logo=vercel)](https://omnifood-website-rho.vercel.app/)
 [![GitHub Stars](https://img.shields.io/github/stars/lakshmi22-2007/omnifood-website?style=for-the-badge&color=yellow)](https://github.com/lakshmi22-2007/omnifood-website/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/lakshmi22-2007/omnifood-website?style=for-the-badge&color=green)](https://github.com/lakshmi22-2007/omnifood-website/network)
 
@@ -129,6 +130,24 @@ Navigate to `http://localhost:8000` and enjoy! 🎉
 
 ---
 
+## 🌐 **Live Deployments**
+
+<div align="center">
+
+### 🚀 **Main Deployment**
+**[🍽️ View Live Website](https://omnifood-website-rho.vercel.app/)**
+
+*Hosted on Vercel - Lightning fast global CDN*
+
+| Platform | Status | URL |
+|----------|---------|-----|
+| 🔺 **Vercel** | ✅ Live | [omnifood-website-rho.vercel.app](https://omnifood-website-rho.vercel.app/) |
+| 🐙 **GitHub Pages** | 🔄 Available | [lakshmi22-2007.github.io/omnifood-website](https://lakshmi22-2007.github.io/omnifood-website) |
+
+</div>
+
+---
+
 ## 📱 **Responsive Design Showcase**
 
 <div align="center">
@@ -202,7 +221,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 *Passionate about creating beautiful, functional web experiences*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshmi22-2007)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lakshmi22-2007.github.io/omnifood-website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omnifood-website-rho.vercel.app/)
 
 </div>
 
