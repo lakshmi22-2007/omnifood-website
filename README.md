@@ -45,7 +45,7 @@ Open `index.html` in your browser to view the website.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/omnifood-website.git
+   git clone https://github.com/lakshmi22-2007/omnifood-website.git
    ```
 
 2. Navigate to the project directory:
