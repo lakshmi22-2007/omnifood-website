@@ -9,8 +9,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/lakshmi22-2007/omnifood-website?style=for-the-badge&color=yellow)](https://github.com/lakshmi22-2007/omnifood-website/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/lakshmi22-2007/omnifood-website?style=for-the-badge&color=green)](https://github.com/lakshmi22-2007/omnifood-website/network)
 
-![Omnifood Preview](https://via.placeholder.com/800x400/e67e22/ffffff?text=🍽️+Omnifood+Website+Preview)
-
 </div>
 
 ---
@@ -18,6 +16,9 @@
 ## ✨ **About The Project**
 
 **Omnifood** is a modern, fully responsive food delivery website that brings healthy, delicious meals right to your doorstep. Built with cutting-edge web technologies, this project demonstrates advanced CSS techniques, responsive design principles, and modern web development best practices.
+
+**Website**
+https://omnifood-website-rho.vercel.app/
 
 > 🎯 **Perfect for**: Portfolio showcase, learning responsive design, understanding modern CSS Grid & Flexbox
 
